@@ -1,1 +1,1 @@
-#  front page del repositorio personal.
+#  Front page del repositorio personal
